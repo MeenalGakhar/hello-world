@@ -6,7 +6,7 @@
      |______|_| \_|  |_|  |_|  \_\        |_| |____/ |_|
                                                  
 
-# Welcome to ENTR-451
+# Welcome to ENTR-451. It's time to learn!
 
 This is an example of a GitHub repository.
 
